@@ -13,7 +13,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdBlank3, Grimoire",
-        "Text": "Astral Empyrean- by Zee",
+        "Text": "Astral Empyrean- by NIGGA",
         "Alpha": 255,
         "R": 220,
         "G": 220,
@@ -281,7 +281,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdBlank3, Grimoire",
-        "Text": "<-- Ultra Gramiel -->",
+        "Text": "<-- Astral Empyrean -->",
         "Alpha": 255,
         "R": 220,
         "G": 220,
@@ -297,7 +297,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
-        "Name": "EQUIP4GRAM"
+        "Name": "EQUIP4AE"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNotEquipped, Grimoire",
@@ -320,7 +320,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdGotoLabel, Grimoire",
-        "Label": "EQUIP4GRAMP1"
+        "Label": "EQUIP4AEP1"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNameEquals, Grimoire",
@@ -331,7 +331,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdGotoLabel, Grimoire",
-        "Label": "EQUIP4GRAMP2"
+        "Label": "EQUIP4AEP2"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNameEquals, Grimoire",
@@ -342,7 +342,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdGotoLabel, Grimoire",
-        "Label": "EQUIP4GRAMP3"
+        "Label": "EQUIP4AEP3"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNameEquals, Grimoire",
@@ -353,7 +353,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdGotoLabel, Grimoire",
-        "Label": "EQUIP4GRAMP4"
+        "Label": "EQUIP4AEP4"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdBlank3, Grimoire",
@@ -365,7 +365,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
-        "Name": "EQUIP4GRAMP1"
+        "Name": "EQUIP4AEP1"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNotEquipped, Grimoire",
@@ -441,7 +441,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
-        "Name": "EQUIP4GRAMP2"
+        "Name": "EQUIP4AEP2"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNotEquipped, Grimoire",
@@ -517,7 +517,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
-        "Name": "EQUIP4GRAMP3"
+        "Name": "EQUIP4AEP3"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNotEquipped, Grimoire",
@@ -593,7 +593,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdLabel, Grimoire",
-        "Name": "EQUIP4GRAMP4"
+        "Name": "EQUIP4AEP4"
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.Statements.CmdNotEquipped, Grimoire",
@@ -884,7 +884,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdGotoLabel, Grimoire",
-        "Label": "GRAM"
+        "Label": "AE"
       },
       {
         "$type": "Grimoire.Botting.Commands.Quest.CmdCompleteQuest, Grimoire",
