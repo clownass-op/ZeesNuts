@@ -13,7 +13,7 @@
       },
       {
         "$type": "Grimoire.Botting.Commands.Misc.CmdBlank3, Grimoire",
-        "Text": "Astral Empyrean- by NIGGA",
+        "Text": "Astral Empyrean- by Zee",
         "Alpha": 255,
         "R": 220,
         "G": 220,
@@ -1120,6 +1120,12 @@
       "Warden Insignia",
       "Soul Sand"
     ]
+  },
+  "Server": {
+    "$type": "Grimoire.Game.Data.Server, Grimoire",
+    "sName": "Twilly",
+    "iPort": 5588,
+    "sIP": "socket5.aq.com"
   },
   "ExitCombatBeforeRest": true,
   "EnablePickup": true,
